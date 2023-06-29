@@ -71,5 +71,6 @@ El equipo de desarrollo se organizará de la siguiente manera:
 
 ### Diseño detallado - Entregables
 ### Equipo de trabajo - Roles y responsabilidades
+Por favor revisar [contributing.md](https://github.com/Magic-Mario/sismos_clas_henry/blob/test/contributing.md)
 ### Cronograma General - Gantt
 ### Análisis preliminar de calidad de datos
