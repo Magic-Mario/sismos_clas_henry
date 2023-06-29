@@ -54,9 +54,9 @@ Dado que las temáticas relacionadas con las alertas sísmicas son amplias, es i
 - Lenguaje de programación: Python
 - Base de datos: MongoDB
 - Librerías de procesamiento de señales: NumPy, Pandas
-- Librerías de machine learning: 
-- Herramientas de visualización de datos: 
-- Integración con dispositivos móviles: 
+- Librerías de machine learning: Scikit-learn
+- Herramientas de visualización de datos: Matplotlib, Seaborn y Flourish
+- Integración con dispositivos móviles: Telegram, WhatsApp (Opcional) 
 
 ### Metodología de Trabajo
 Para el desarrollo del proyecto de Sistema de Alerta Sísmicas, se utilizará la metodología de trabajo ágil, específicamente Scrum. Esta metodología permitirá una gestión eficiente del proyecto, fomentando la colaboración, la adaptabilidad y la entrega continua de valor.
@@ -73,4 +73,6 @@ El equipo de desarrollo se organizará de la siguiente manera:
 ### Equipo de trabajo - Roles y responsabilidades
 Por favor revisar [contributing.md](https://github.com/Magic-Mario/sismos_clas_henry/blob/test/contributing.md)
 ### Cronograma General - Gantt
+Direccionamiento a diagrama de Gantt [aqui](https://github.com/Magic-Mario/sismos_clas_henry/blob/test/diag_gantt/PF-Henry-diagrama_gantt.pdf)
 ### Análisis preliminar de calidad de datos
+Link directo al notebook con el analisis exploratorio de datos [aqui](https://github.com/Magic-Mario/sismos_clas_henry/blob/test/src/notebooks/eda.ipynb)
